@@ -1,0 +1,37 @@
+
+.carousel,
+.item,
+.active {
+    height: 100%;
+}
+
+.carousel-inner {
+    max-height: 1040px;
+    max-width:700px;
+    margin: 0 auto;
+}﻿
+
+.starter-template {
+padding: 40px 15px;
+text-align: center;
+}
+
+
+.lead{
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+
+}
+
+p {
+  font-size: 150%;
+}
+
+.description {
+font-size: 80%;
+padding: 20px;
+text-align: center;
+}
